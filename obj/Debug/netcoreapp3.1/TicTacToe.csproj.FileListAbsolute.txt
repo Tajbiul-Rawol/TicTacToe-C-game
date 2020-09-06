@@ -1,0 +1,13 @@
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+I:\Consoleapp\TIcktaktoe\TicktakToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+I:\Consoleapp\TIcktaktoe\TicktakToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
